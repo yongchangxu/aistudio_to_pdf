@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 浏览器登录凭据 (含 Google 账号 cookie, 绝对不要提交)
+.aistudio_profile/
+
+# 导出的个人对话内容
+*.pdf
+*.html
+*.raw.json
