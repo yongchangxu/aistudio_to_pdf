@@ -9,3 +9,6 @@ __pycache__/
 *.pdf
 *.html
 *.raw.json
+
+# AI 工具中间产物
+.omo/
